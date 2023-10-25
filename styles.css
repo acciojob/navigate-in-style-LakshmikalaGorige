@@ -3,9 +3,8 @@
     background-color: #D3D3D3;
     padding: 10px;
 }
-.nav>ul{
+.nav-bar ul{
 	display:flex;
-	flex-direction:row;
 	margin-right:1rem;
 }
 
