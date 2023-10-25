@@ -5,9 +5,11 @@
 }
 .nav-bar ul{
 	display:flex;
+	
+}
+.nav-bar ul li{
 	margin-right:1rem;
 }
-
 /* Style for the navigation list */
 .nav-bar ul {
     list-style: none; /* Remove bullets from list items */
